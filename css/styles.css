@@ -281,7 +281,7 @@ font-weight: 500;
 .team-text {
     text-align: center;
     padding-top: 32px;
-    padding-bottom: 8px;
+    padding-bottom: 32px;
 }
 
 .team-subtitle {
@@ -301,9 +301,6 @@ font-weight: 500;
 }
 
 
-.icons-container {
-    padding-bottom: 32px;
-}
 
 .icons-list {
     display: flex;
@@ -311,6 +308,7 @@ font-weight: 500;
     justify-content: center;
     flex-direction: row;
     gap: 24px;
+    padding-top: 8px;
 }
 
 .icons-list-item {
