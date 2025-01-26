@@ -300,16 +300,21 @@ font-weight: 500;
         color: #434455;
 }
 
-.icons-list {
-    display: flex;
-        align-items: center;
-        justify-content: center;
-        flex-direction: row;
-        gap: 24px;
-}
 
 .icons-container {
     padding-bottom: 32px;
+}
+
+.icons-list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 24px;
+}
+
+.icons-list-item {
+
 }
 
 .team-icons-link {
