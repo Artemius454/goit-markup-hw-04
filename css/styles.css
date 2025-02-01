@@ -311,7 +311,7 @@ font-weight: 500;
     justify-content: center;
     flex-direction: row;
     gap: 24px;
-    padding-top: 8px;
+    margin-top: 8px;
 }
 
 .icons-list-item {
@@ -472,7 +472,6 @@ max-width: 3468px;
         align-items: center;
         justify-content: center;
         gap: 16px;
-        padding-top: 16px;
 }
 
 .footer-icons-link:hover {
